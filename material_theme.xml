@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="premium" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="ffd866" />
+    <option name="selectedTheme" value="MONOKAI" />
+    <option name="userId" value="47e5fb71:175d42f28f2:-8000" />
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
+      <mapping pattern=".hataccess" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

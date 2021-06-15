@@ -1,0 +1,122 @@
+<application>
+  <component name="MessDetector">
+    <phpmd_settings_migrated />
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
+  </component>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter id="e56bb460-dd6e-4e6f-b028-eecc39d594b8" name="PHP7.3" home="D:\phpstudy_pro\Extensions\php\php7.3.4nts\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="c80fb4e3-9a3f-4f41-843d-fe7666c05733" name="PHP" home="D:\phpstudy_pro\Extensions\php\php7.1.9nts\php.exe" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
+  <component name="PhpInterpretersPhpInfoCache">
+    <phpInfoCache>
+      <interpreter name="PHP">
+        <phpinfo binary_type="PHP" php_cgi="D:\phpstudy_pro\Extensions\php\php7.1.9nts\php-cgi.exe" php_cli="D:\phpstudy_pro\Extensions\php\php7.1.9nts\php.exe" path_separator=";" version="7.1.9">
+          <additional_php_ini />
+          <configuration_file>D:\phpstudy_pro\Extensions\php\php7.1.9nts\php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value=".;C:\php\pear" />
+          </configuration_options>
+          <debuggers />
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="bcmath" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="gd" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="json" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="mcrypt" />
+            <extension name="mysqli" />
+            <extension name="mysqlnd" />
+            <extension name="openssl" />
+            <extension name="pcre" />
+            <extension name="pdo_mysql" />
+            <extension name="readline" />
+            <extension name="session" />
+            <extension name="standard" />
+            <extension name="tokenizer" />
+            <extension name="wddx" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+      <interpreter name="PHP7.3">
+        <phpinfo binary_type="PHP" php_cgi="D:\phpstudy_pro\Extensions\php\php7.3.4nts\php-cgi.exe" php_cli="D:\phpstudy_pro\Extensions\php\php7.3.4nts\php.exe" path_separator=";" version="7.3.4">
+          <additional_php_ini />
+          <configuration_file>D:\phpstudy_pro\Extensions\php\php7.3.4nts\php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value=".;C:\php\pear" />
+          </configuration_options>
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.7.2">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="bcmath" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="exif" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="gd" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="json" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="mysqli" />
+            <extension name="mysqlnd" />
+            <extension name="openssl" />
+            <extension name="pcre" />
+            <extension name="pdo_mysql" />
+            <extension name="readline" />
+            <extension name="redis" />
+            <extension name="session" />
+            <extension name="sockets" />
+            <extension name="sqlite3" />
+            <extension name="standard" />
+            <extension name="tokenizer" />
+            <extension name="wddx" />
+            <extension name="xdebug" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+    </phpInfoCache>
+  </component>
+</application>

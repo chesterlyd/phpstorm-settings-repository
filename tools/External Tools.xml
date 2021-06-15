@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="php-cs-fixer" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="F:\phpstudy_pro\WWW\02_src\back\vendor\bin\php-cs-fixer.bat" />
+      <option name="PARAMETERS" value="fix $FileDir$\$FileName$ --config=F:\phpstudy_pro\WWW\02_src\back\.php_cs --using-cache=no" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

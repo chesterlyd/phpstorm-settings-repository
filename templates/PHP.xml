@@ -1,0 +1,42 @@
+<templateSet group="PHP">
+  <template name="eh" value="echo &quot;$END$&quot;;exit();" description="'echo' statement" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="pr" value="print_r($END$);exit();" description="print_r() for variables" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="vp" value="var_dump($END$);exit();" description="var_dump()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="try" value="try {&#10;    $END$&#10;} catch (\Exception $e) {&#10;    // 异常处理&#10;    Log::debug($e-&gt;getMessage());&#10;    $this-&gt;returnFail();&#10;}" description="try statement" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="thi" value="throw new \InvalidArgumentException(&quot;$END$&quot;);" description="throw new InvalidArgumentException" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="the" value="throw new \Exception(&quot;$END$&quot;);" description="throw new Exception" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="thR" value="throw new \RuntimeException(&quot;$END$&quot;);" description="throw new RuntimeException" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="de" value="dump($END$);exit();" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
